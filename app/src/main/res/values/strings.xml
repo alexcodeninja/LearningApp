@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">LearningApp</string>
-    <string name="btn_order">Заказать</string>
-    <string name="etn_count">Количество</string>
-    <string name="EditTextFood">Название блюда</string>
-    <string name="etn_table">Введите номер столика</string>
+	<string name="app_name">LearningApp</string>
+	<string name="btn_order">Заказать</string>
+	<string name="etn_count">Количество</string>
+	<string name="EditTextFood">Название блюда</string>
+	<string name="etn_table">Введите номер столика</string>
 </resources>
